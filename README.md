@@ -1,4 +1,4 @@
-# Supply-chain-analysiss
+# Supply Chain Delivery Performance & Profitability Analysis
 Excel dashboard analyzing delivery performance, costs and profitability from a 10k row supply chain dataset. Includes KPIs, trends and supplier evaluation.
 Supply Chain Performance Dashboard
 This project analyzes 9,600 orders from a supply chain dataset to identify delivery performance issues, cost challenges, and profitability insights. It was developed using Excel, SQL, and PowerPoint as part of a data analytics portfolio.
@@ -39,6 +39,6 @@ KPI Summary Cards
 🎯 Purpose of the Project
 To demonstrate data cleaning, analysis, and storytelling skills using real-world supply chain data. This project highlights:
 
-Business problem-solving using Excel and SQL
+Business problem-solving using Excel
 Ability to find insights from unclean datasets
 Dashboard design and reporting with PowerPoint
